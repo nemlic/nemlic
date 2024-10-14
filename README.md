@@ -8,7 +8,11 @@
 
 ## 🌟 About Me
 
-Hey there! I'm **Nelson Itaaru**, a passionate developer who thrives on creating innovative web solutions and exploring the endless possibilities of Artificial Intelligence. My creativity shines not just in code but also in the kitchen and on the turntables 🎧. 
+Hello! I’m Nelson Itaaru, a dedicated web developer with a strong passion for crafting innovative solutions and a keen interest in the limitless possibilities of Artificial Intelligence. My experience as a shift supervisor at KFC has equipped me with valuable leadership and teamwork skills, which I apply to all my projects.
+
+Beyond my technical pursuits, I express my creativity through cooking, where I enjoy experimenting with new recipes, and I also love engaging in spirited football matches with friends ⚽️. I firmly believe in the transformative power of technology to inspire and make a positive impact in people's lives.
+
+I am always eager to learn, grow, and collaborate with others on exciting projects. Please feel free to reach out!
 
 - 🔭 **Currently Working On:** Personal Projects that push my limits in both web dev and AI
 - 🤝 **Looking for Help With:** Diving deeper into AI and Machine Learning
